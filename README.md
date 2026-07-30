@@ -31,7 +31,7 @@ I build modern, scalable web applications using the **MERN stack**:
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: [@roshanch](https://github.com/Roshan-ch](https://www.linkedin.com/in/roshanch/)
+- LinkedIn: [@roshanch](https://www.linkedin.com/in/roshanch/)
 
 ---
 

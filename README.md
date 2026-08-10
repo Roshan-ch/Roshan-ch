@@ -4,9 +4,9 @@
 
 <div align="center">
 
-### MERN Full Stack Developer
+### Full Stack Developer
 
-I build modern, scalable web applications using the **MERN stack**:
+I build modern, scalable web applications using the **stack**:
 **MongoDB, Express.js, React, and Node.js**.
 
 ---

@@ -41,7 +41,7 @@ I build modern, scalable web applications using the **stack**:
 
 ### Visit my website
 
-[<img src="./app/favicon.ico.PNG" width="100" alt="Website">](https://www.roshanchaudhary7.com.np/)
+[<img src="./Logo.PNG" width="100" alt="Website">](https://www.roshanchaudhary7.com.np/)
 
 ---
 
